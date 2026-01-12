@@ -1,60 +1,1619 @@
-Name: Your Trusted IT Partner
-Address: ELANTECHLot 568-3-140, Kompleks Mutiara, Batu 3 ½ Jalan Ipoh, 51200 Kuala Lumpur, ,  Kuala Lumpur City, Kuala Lumpur
+Name: Trophy Melawati Enterprise
+Address: , ,  Kuala Lumpur, Kuala Lumpur
+Phone: +601135039923
+Email: support@trophymelawati.com.my
+------------------------------
+Name: Mitra Malaysia Sdn Bhd
+Address: Lot 6.03A, Level 6, Wisma Central, Jalan Ampang,  Kuala Lumpur, Kuala Lumpur
+Phone: 
+Email: info@mitra.travel
+------------------------------
+Name: Lim Agency
+Address: No. 380,, Jalan Raja Laut,,  Kuala Lumpur, Kuala Lumpur
+Phone: +603-4041 0127
+Email: tommylimagency@hotmail.com
+------------------------------
+Name: Steelon Roofing Systems Sdn Bhd
+Address: 4-2-4,  Queen Avenue, Jalan Bayam,, Off Jalan Peel,,  Kuala Lumpur, Kuala Lumpur
+Phone: +603-9205 5330
+Email: steelon_kl@yahoo.com
+------------------------------
+Name: Inter-Register Communications (M) Sdn Bhd
+Address: No 34, Jalan Tanjung SD 13/1,, Bandar Sri Damansara,,  Kuala Lumpur, Kuala Lumpur
+Phone: +603-6272 8000
+Email: general@irc.com.my
+------------------------------
+Name: Klinik Pergigian Kheng
+Address: No. 138, 1st Floor,, Jalan Tun H S Lee,,  Kuala Lumpur, Kuala Lumpur
+Phone: +603-2078 4028
+Email: klinikpergigiankheng@gmail.com
+------------------------------
+Name: Anar Paper Co Sdn Bhd
+Address: No. 276, Jalan Tun Sambanthan (Brickfields),  Brickfields, Kuala Lumpur
+Phone: +60177473163
+Email: info@anarpaper.com
+------------------------------
+Name: P & M Electrical & Mechanical Sdn Bhd
+Address: No. 19, Jalan Mega,, Taman Mega Jaya, Cheras,,  Kuala Lumpur, Kuala Lumpur
+Phone: +603-4293 3415
+Email: pmemsb2009@hotmail.com
+------------------------------
+Name: Mitra Kembara Sdn Bhd
+Address: Lot 6.03A, Level 6, Wisma Central, Jalan Ampang,  Kuala Lumpur, Kuala Lumpur
+Phone: 
+Email: norzaile@mitrakembara.travel
+------------------------------
+Name: SPS Intertrade Sdn Bhd
+Address: Unit F, Excella Business Park, Jalan Ampang Putra,, Taman Ampang Hilir,,  Kuala Lumpur, Kuala Lumpur
+Phone: +603-4270 2022
+Email: spstm68@yahoo.com
+------------------------------
+Name: Extol Corporation Sdn Bhd
+Address: , ,  Kuala Lumpur, Kuala Lumpur
+Phone: +60321813666
+Email: info@appasia.com
+------------------------------
+Name: STH & Co
+Address: 129-A, Jalan Genting Kelang, Setapak,,  Setapak, Kuala Lumpur
+Phone: 
+Email: sthadvisory@gmail.com
+------------------------------
+Name: AppAsia Berhad
+Address: E-1-4, 1st Floor, Megan Avenue 1, Jalan Tun Razak,  Kuala Lumpur, Kuala Lumpur
+Phone: +60321813666
+Email: info@appasia.com
+------------------------------
+Name: Muhibbah Security Sdn Bhd
+Address: No. 8, Lorong 6A/91, Taman Shamelin Perkasa,  Kuala Lumpur, Kuala Lumpur
+Phone: 
+Email: info@muhibbahsecurity.com.my
+------------------------------
+Name: Super Air-Cond Parts & Supplies Sdn Bhd
+Address: No. 35, Jalan Gelang,, Off Jln Sungai Besi,,  Kuala Lumpur, Kuala Lumpur
+Phone: +603-9223 2430
+Email: superaircond@gmail.com
+------------------------------
+Name: Syarikat City Corporation
+Address: 30 Jalan 1B/108C, Taman Sungai Besi,  Kuala Lumpur, Kuala Lumpur
+Phone: +60379833214
+Email: citycorp.kl@gmail.com
+------------------------------
+Name: Awasiapi (M) Sdn Bhd
+Address: No. 38, 2nd Floor, Jalan 8/23E,, Danau Kota,,  Setapak, Kuala Lumpur
+Phone: +603-4149 3148
+Email: awasiapi_mis83@yahoo.com
+------------------------------
+Name: Fujit Plastic Industries Sdn Bhd
+Address: 102 & 103, Block P/D, Lorong Kaskas, Taman Cheras,  Kuala Lumpur, Kuala Lumpur
+Phone: +603-9130 5537
+Email: fujitplastic@yahoo.com
+------------------------------
+Name: Marco Polo Restaurant
+Address: 1st Floor, Wisma Lim Foo Yong, 86, Jln Raja Chulan,  Kuala Lumpur, Kuala Lumpur
+Phone: +60321412233
+Email: marcopolorestaurant@yahoo.com
+------------------------------
+Name: FLC Maintenance Specialist Sdn Bhd
+Address: No. 88, Jln Talalla, ,  Kuala Lumpur, Kuala Lumpur
+Phone: +603-2148 5780
+Email: flc_clean@hotmail.com
+------------------------------
+Name: De La Signs & Advertising Trading
+Address: No. 2, Jln Tembaga Sd 5/2E, Taman Sri Damansara,  Kepong, Kuala Lumpur
+Phone: +603-6277 6669
+Email: l_a_signs@yahoo.com
+------------------------------
+Name: Fujit Plastic Industries Sdn Bhd
+Address: 102 & 103, Block P/D, Lorong Kaskas, Taman Cheras,  Kuala Lumpur, Kuala Lumpur
+Phone: +603-9130 5537
+Email: fujitplastic@yahoo.com
+------------------------------
+Name: Epsoner F & B Equipment Sdn Bhd
+Address: No. 47, Jalan 10/91,, Taman Shamelin Perkasa,,  Kuala Lumpur, Kuala Lumpur
+Phone: +603-9200 7727
+Email: info@epsoner.com
+------------------------------
+Name: Choong Hing Trading Sdn Bhd
+Address: No. 17 & 19, Jalan 5/91,, Taman Shamelin Perkasa, Batu 3 1/2, Jalan Cheras,,  Kuala Lumpur, Kuala Lumpur
+Phone: +603-9282 0611
+Email: chts1719@gmail.com
+------------------------------
+Name: De La Signs & Advertising Trading
+Address: No. 2, Jln Tembaga Sd 5/2E, Taman Sri Damansara,  Kepong, Kuala Lumpur
+Phone: +603-6277 6669
+Email: l_a_signs@yahoo.com
+------------------------------
+Name: Consultancy Engineering Services
+Address: DAR ENERGY SDN BHDLevel 15, West Wings, The Icon,, No.1, Jalan 1/68F,,  W.PERSEKUTUAN, Kuala Lumpur
+Phone: 
+Email: infodar@dar-energy.com
+------------------------------
+Name: TRAVELVAGO SDN BHD
+Address: No A-SG-25 Level SG,, Sunway Geo Avenue Bandar Sunway,,  Kuala Lumpur, Selangor
+Phone: +60126658194
+Email: Not listed
+------------------------------
+Name: Cloud Kitchen
+Address: Kitchen United Sdn. Bhd.D-8-3, Menara Suezcap 1, KL Gateway, Jalan Kerinchi,  Kuala Lumpur, Kuala Lumpur
+Phone: +60176292048
+Email: Not listed
+------------------------------
+Name: Kitchen United Sdn. Bhd.
+Address: D-8-3, Menara Suezcap 1, KL Gateway, Jalan Kerinchi,  Kuala Lumpur, Kuala Lumpur
+Phone: +60176292048
+Email: Not listed
+------------------------------
+Name: Need Funding for your business?
+Address: BizAdvisor DigitalSOHO Suites @ KLCC, Block A2, Level 23-2, No. 20, ,  Kuala Lumpur, Kuala Lumpur
+Phone: +60199328361
+Email: hello@bizadvisordigital.com
+------------------------------
+Name: ACCA & LCCI Online Studies
+Address: TRINITY GENESIS ORIGO DEVELOPMENT SDN BHDNO 1 TINGKAT 2 JALAN WANGSA DELIMA 10, SETAPAK,  Kuala Lumpur, Kuala Lumpur
+Phone: +60123371090
+Email: lowchinann@genesisorigo.com
+------------------------------
+Name: Digital Marketing Services
+Address: Primal MalaysiaMercu 2, Level 40, No.3, Jalan Bangsar, KL Eco City, 59200 Kuala Lumpur., ,  Kuala Lumpur, Kuala Lumpur
+Phone: 
+Email: Not listed
+------------------------------
+Name: Grow Your Business with Us
+Address: BizAdvisor DigitalSOHO Suites @ KLCC, Block A2, Level 23-2, No.20, ,  Jalan Perak, Kuala Lumpur
+Phone: +60199328361
+Email: info@bizadvisordigital.com
+------------------------------
+Name: INTERSPACE DIGITAL MALAYSIA SDN BHD
+Address: ACCESSTRADE MALAYSIAB-13-04, Northpoint Office, Mid Valley City No 1 Medan Syed Putra Utara 59200 Kuala Lumpur, Malaysia, ,  Kuala Lumpur, Kuala Lumpur
+Phone: +60129354491
+Email: support@interspace.my
+------------------------------
+Name: MIL Capital Solution
+Address: No. 43-2, Jalan 1/116B, Kuchai Entrepreneurs Park,  Kuala Lumpur, Kuala Lumpur
+Phone: 
+Email: milcapsol@gmail.com
+------------------------------
+Name: Cooling Solution Sdn Bhd
+Address: 57 & 59, Jalan Kuchai Maju 17,, Kuchai Entrepreneur's Park, Off Jalan Kuchai Lama,,  Kuala Lumpur, Kuala Lumpur
+Phone: +603-7981 3466
+Email: sales@coolingsolution.com.my
+------------------------------
+Name: HR2eazy Sdn Bhd
+Address: 05-01, Level 05, Vertical Business Suite Avenue 3,, Bangsar South, No. 8, Jalan Kerinchi,,  Kuala Lumpur, Kuala Lumpur
+Phone: +603-2242 4024
+Email: rganesha@hrzeazy.com
+------------------------------
+Name: Wilmec Enterprise
+Address: No. 18, Jalan Lapangan Permai 1,, Jalan Sungai Besi Batu 2,,  Kuala Lumpur, Kuala Lumpur
+Phone: +603-9221 0124
+Email: wilmec@outlook.com
+------------------------------
+Name: Iscistech Business Solutions Sdn Bhd
+Address: 05-06, Level 05, Vertical Business Suite, Avenue 3, Bangsar South, No. 8, Jalan Kerinchi,,  Kuala Lumpur, Kuala Lumpur
+Phone: +603-2242 3524
+Email: rganesha@iscistech.com
+------------------------------
+Name: Super Six M&e Services Sdn Bhd
+Address: 30-1, Tingkat 1, Jalan Radin Anum 2,, ,  Bandar Baru Seri Petaling,, Kuala Lumpur
+Phone: +60390564369
+Email: supersixme@s6me.com.my
+------------------------------
+Name: OG-Cond Engineering
+Address: No. 62, Jalan Mega Mendung,, Kompleks Bandar, Jalan Klang Lama,,  Kuala Lumpur, Kuala Lumpur
+Phone: +6019-334 3997
+Email: ogair@streamyx.com
+------------------------------
+Name: Pak Fook Casket
+Address: 109, Jalan Besar,, Salak South,,  Kuala Lumpur, Kuala Lumpur
+Phone: +6019-273 8820
+Email: leongkahyan94@gmail.com
+------------------------------
+Name: Sky Radiance Global
+Address: No. 61, Lebuh Ampang,, Bangunan Abdul Razak,,  Kuala Lumpur, Kuala Lumpur
+Phone: +603-2078 5140
+Email: Razli786@yahoo.com
+------------------------------
+Name: J Arthur (M) Sdn Bhd
+Address: Lot 125, First Floor, Compbell Complex, Jalan Dang Wangi,,  Kuala Lumpur, Kuala Lumpur
+Phone: +603-2691 4162
+Email: flagsnflags@gmail.com
+------------------------------
+Name: K.L. Management & Secretarial Services
+Address: No. 20-3A, Jalan Pandan  2/1,, Pandan Jaya,,  Kuala Lumpur, Kuala Lumpur
+Phone: +603-9286 1500
+Email: foopohkhean@gmail.com
+------------------------------
+Name: Glojuara (M) Sdn Bhd
+Address: G-Floor, Wisma Apple (Beside Maybank),, 42-2, Jalan Sultan Ismail,,  Kuala Lumpur, Kuala Lumpur
+Phone: +603-2141 1757
+Email: hamzah@glojuara.com.my
+------------------------------
+Name: Klinik Maniraj
+Address: No. 2-11A, 2nd Floor,, Plaza City One, Jalan Munshi Abdullah,,  Kuala Lumpur, Kuala Lumpur
+Phone: +603-2693 7188
+Email: klinikmaniraj@gmail.com
+------------------------------
+Name: SVCE Central Sdn Bhd
+Address: 16 Jalan Pandan 3/10,, ,  Kuala Lumpur, Kuala Lumpur
+Phone: +603-9284 4399
+Email: pfactor@centralcapacitors.com.my
+------------------------------
+Name: Raj Management Services Sdn Bhd
+Address: Suite L8-12, Menara Sentral Vista,, No. 150, Jalan Sultan Abdul Samad,,  Kuala Lumpur, Kuala Lumpur
+Phone: +603- 2276 2786
+Email: raj27sms@yahoo.com
+------------------------------
+Name: Razi Gallery Sdn Bhd
+Address: Lot 1.01,1st Floor, The Ampwalk,, 218 Jalan Ampang,,  Kuala Lumpur, Kuala Lumpur
+Phone: +603-2166 3775
+Email: j.esbati@gmail.com
+------------------------------
+Name: Loh Wei Plumbing Renovation Co
+Address: No. 1375, Jalan Peel,, Kg. Peel,,  Kuala Lumpur, Kuala Lumpur
+Phone: +603-9285 9682
+Email: kelvintkloh62@gmail.com
+------------------------------
+Name: AT Guards Security Services Sdn Bhd
+Address: 180-3-6, Wisma Mahkota, Jalan Mahkota, Taman Maluri, Cheras,  Kuala Lumpur, Kuala Lumpur
+Phone: 
+Email: info@atguardsec.com
+------------------------------
+Name: Million Kitchen Systems
+Address: Lot G43, Pandan Kapital, Ampang,Kuala Lumpur, Persiaran MPAJ, Jalan Pandan Utama,Pandan Indah,  Kuala Lumpur, Kuala Lumpur
+Phone: +6012-694 4432
+Email: millionkitchensystems@gmail.com
+------------------------------
+Name: Sistel Sales & Services Sdn Bhd
+Address: 47-1, Jalan Sri Permaisuri 8,, Bandar Sri Permaisuri, ,  Cheras, Kuala Lumpur
+Phone: +603-9173 8899
+Email: sistel@sistel.com.my
+------------------------------
+Name: Tosinma Plumbing & Construction Sdn Bhd
+Address: No. 2, Jln 17, Taman Desa Jaya,  Kepong, Kuala Lumpur
+Phone: +6011-1278 3727
+Email: info@tosinma.com.my
+------------------------------
+Name: Formation Services (M) Sdn Bhd
+Address: 313 Lot 5.42 5th Floor, Wisma Central, Jln Ampang,  Kuala Lumpur, Kuala Lumpur
+Phone: +603-2161 2717
+Email: formserv1983@gmail.com
+------------------------------
+Name: Central Capacitors (M) Sdn Bhd
+Address: No. 16, Jln Pandan 3/10,, Taman Pandan Jaya,  Kuala Lumpur, Kuala Lumpur
+Phone: +603-9284 4399
+Email: pfactor@centralcapacitors.com.my
+------------------------------
+Name: Bryan Tan
+Address: 17-3A, Level 17, Menara MBMR,, 1 Jalan Syed Putra, Mid Valley City,,  Kuala Lumpur, Kuala Lumpur
+Phone: +60175882291
+Email: bryan@newnormz.com.my
+------------------------------
+Name: Ray Jude
+Address: No 216 Block D, Paradesa Rustica Condo,, Persiaran Meranti, Bandar Sri Damansara,  Kuala Lumpur, Kuala Lumpur
+Phone: +60165815385
+Email: rayjjd79.rj@gmail.com
+------------------------------
+Name: damon yong
+Address: A 12-2, VISTA MAGNA, JALAN PRIMA, METRO PRIMA, KEPONG, 52100 KUALA LUMPUR, ,  Kepong, Kuala Lumpur
+Phone: +601154313128
+Email: hello@dacrystal.com
+------------------------------
+Name: TTElephant headspa malaysia
+Address: NO 9-6 the boulevard mid valley city, Lingkaran Syed Putra, utar,  Kuala Lumpur, Kuala Lumpur
+Phone: +60162066916
+Email: ttelephant.malaysia@gmail.com
+------------------------------
+Name: iseth electrical trading
+Address: 23-1 Jalan Menara Gading, Taman Connaught,  Cheras, Kuala Lumpur
+Phone: +60126635900
+Email: isethelectrician01@gmail.com
+------------------------------
+Name: Ryan Liong
+Address: Unit 1-11, Level 11, Boulevard 1&3, Mid Valley City, Lingkaran Syed Putra,  Kuala Lumpur, Malaysia, Kuala Lumpur
+Phone: +601159385962
+Email: info@vibrance.com.my
+------------------------------
+Name: DAR ENERGY SDN BHD
+Address: Level 15, West Wings, The Icon,, No.1, Jalan 1/68F,,  W.PERSEKUTUAN, Kuala Lumpur
+Phone: +60132601129
+Email: azam.rahman@dar-energy.com
+------------------------------
+Name: MOHD AZAM BIN AB RAHMAN
+Address: Level 15, West Wings, The Icon,, No.1, Jalan 1/68F,,  Kuala Lumpur, Kuala Lumpur
+Phone: +60132601129
+Email: azam1964@gmail.com
+------------------------------
+Name: PinkLady KL Massage – Cheras & Pudu
+Address: 6-2, Jalan Metro Pudu 2, Fraser Business Park,  Kuala Lumpur, Kuala Lumpur
+Phone: +601163843075
+Email: Not listed
+------------------------------
+Name: Desbu KL
+Address: 289A, Jalan Bandar 11,, Taman Melawati,,  Gombak, Kuala Lumpur
+Phone: 
+Email: desbu.official@gmail.com
+------------------------------
+Name: Agile X Solution
+Address: 62-2, Jalan Tasik Utama 7, Medan Niaga Tasik Damai,, Sungai Besi, 57000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur,  Kuala Lumpur, Kuala Lumpur
+Phone: +60125017670
+Email: sales@agilex.my
+------------------------------
+Name: TITAN FORCE
+Address: , ,  Kuala Lumpur, Kuala Lumpur
+Phone: +60182256060
+Email: dm@titanforce.com.my
+------------------------------
+Name: Fiz Venture Network
+Address: Miles 3½, Jala  Ipoh, Kl,  Kuala Lumpur, Kuala Lumpur
+Phone: +60176571101
+Email: fizventure12@gmail.com
+------------------------------
+Name: aawf qwefq
+Address: wafaewf, awefweafef,  Setapak, Kuala Lumpur
+Phone: 
+Email: Not listed
+------------------------------
+Name: Ethan Especkerman
+Address: 16 Lorong Datuk Sulaiman 8, Taman Tun Dr. Ismail, ,  Kuala Lumpur, Kuala Lumpur
+Phone: +60125483210
+Email: ethan.especkerman@gmail.com
+------------------------------
+Name: Move X Health
+Address: A-10-10, GOLF & COUNTRY RESORT, TROPICANA AVENUE, Persiaran Tropicana, Tropicana, 47410 Petaling Jaya, Selangor, Malaysia, A-10-10, GOLF & COUNTRY RESORT, TROPICANA AVENUE, Persiaran Tropicana, Tropicana, 47410 Petaling Jaya, Selangor, Malaysia,  Petaling Jaya, Selangor, Kuala Lumpur
+Phone: +60189754951
+Email: movex4u@gmail.com
+------------------------------
+Name: Pyromantra - Fire Show Malaysia
+Address: , ,  Kuala Lumpur, Kuala Lumpur
+Phone: +60102099923
+Email: pyromantramalaysia@gmail.com
+------------------------------
+Name: Gurvinder Kaur
+Address: No 26, Taman Danau Kota,  Setapak, Kuala Lumpur
+Phone: +60189632026
+Email: enquiry@gurvinlaw.com
+------------------------------
+Name: MY AC COOL
+Address: A2-13A-02 Soho Suites KLCC, 20, Jalan Perak, ,  Kuala Lumpur, Kuala Lumpur
+Phone: +601167891026
+Email: admin@myaccool.com
+------------------------------
+Name: JJ ONE STOP IT CENTRE
+Address: Lot 02-005 Plaza low yat Bukit Bintang, Kuala Lumpur,  Kuala Lumpur, Kuala Lumpur
+Phone: +601140666498
+Email: jjonestopitcentremalaysia@gmail.com
+------------------------------
+Name: Next Level Media
+Address: G06, Petalz Residences @ Old Klang Road, | EXSIM.2 Jalan 1, 132A, Off Old Klang Road,,  Old Klang Road, Kuala Lumpur
+Phone: 
+Email: edutowndaycare@gmail.com
+------------------------------
+Name: Escape Creative Marketing
+Address: L-0-8 Kuchai Business Park, Jalan 1/127 off Jalan Kuchai Lama,  Kuala Lumpur, Kuala Lumpur
+Phone: +60163943868
+Email: enquiry@escape.com.my
+------------------------------
+Name: Cl Hardware Cash & Carry
+Address: No 33, Jalan Empat, Off, Jalan Chan Sow Lin,, ,  Kuala Lumpur, Kuala Lumpur
+Phone: 
+Email: lim5333@highspeedjb.com
+------------------------------
+Name: Extech Appliances Service Sdn Bhd
+Address: NO.7, DAMAI CIRCLE, JALAN DAMAI RAYA 6,, 56000, CHERAS, ALAM DAMAI, 56000, CHERAS, ALAM DAMAI.,  Cheras, Kuala Lumpur
+Phone: +60126033995
+Email: extechservice@gmail.com
+------------------------------
+Name: Agile X Solution Sdn Bhd
+Address: 62-2 JALAN TASIK UTAMA 7, MEDAN NIAGA TASIK DAMAI,  Kuala Lumpur, Kuala Lumpur
+Phone: +60125027670
+Email: agilexssb@gmail.com
+------------------------------
+Name: Agile X Solution
+Address: 188 Reed, Taman Tasik Impian, 1 Jalan Tasik Damai, Lake Fields Sungai Besi, 57000 Kuala Lumpur, MEDAN NIAGA TASIK DAMAI,  Kuala Lumpur, Kuala Lumpur
+Phone: +6012502760
+Email: agilexssb@gmail.com
+------------------------------
+Name: AW Builders Malaysia
+Address: AW Builders Malaysia Workshop (next to Surau Al-Muhajirin) Jalan 13/56, Ampang Ulu Kelang,  Kuala Lumpur, Kuala Lumpur
+Phone: +60194423514
+Email: awbuildersmalaysia@gmail.com
+------------------------------
+Name: My Digital ID Sdn Bhd
+Address: MRANTI Technology Park Bukit Jalil, ,  Kuala Lumpur, Kuala Lumpur
+Phone: +60172641494
+Email: ahirul.sahibudin@mimos.my
+------------------------------
+Name: MyDigitalIDSdnBhd
+Address: MRANTI Technology Park Bukit Jalil, ,  Kuala Lumpur, Kuala Lumpur
+Phone: 
+Email: ahirul.sahibudin@mimos.my
+------------------------------
+Name: Confido Agency
+Address: 3 Towers, 349, Jln Ampang, T3,13A 17,  Kampung Berembang, Kuala Lumpur
+Phone: 
+Email: info@confido-agency.com
+------------------------------
+Name: Angstrohm Digital
+Address: Angstrohm DigitalUnit 12-8, Menara 1 MK, Jalan Kiara, Mont Kiara, ,  Kuala Lumpur, Kuala Lumpur
+Phone: 
+Email: hello@angstrohmdigital.com
+------------------------------
+Name: Original Ink, Toner & Printer Supplier (Canon, HP, Epson, Brother, Lexmark)
+Address: Al Faiz Trading & Supplies7-0-16 Floor G, Jalan 5/149B Taman Sri Endah, Bandar Baru Sri Petaling,  Kuala Lumpur, Kuala Lumpur
+Phone: 
+Email: alfaiztradingsupplies@gmail.com
+------------------------------
+Name: Al Faiz Trading & Supplies
+Address: 7-0-16 Floor G, Jalan 5/149B Taman Sri Endah, Bandar Baru Sri Petaling,  Kuala Lumpur, Kuala Lumpur
+Phone: +60179790254
+Email: alfaiztradingsupplies@gmail.com
+------------------------------
+Name: KLCC View Freehold Jacuzzi Suite. ROI up to 12% Annually
+Address: Guru Moorthy16 Jalan Inai, Kuala Lumpur,  Kuala Lumpur, Kuala Lumpur
+Phone: +60169903401
+Email: Not listed
+------------------------------
+Name: KLINIK TUAH : Where Pain Meets Relief
+Address: Klinik TuahG-02, Kompleks Permaisuri Q, No.6, Jalan Sri Permaisuri, Bandar Sri Permaisuri,, ,  Cheras, Kuala Lumpur
+Phone: +60104041215
+Email: kliniktuahmalaysia@gmail.com
+------------------------------
+Name: Venture Mover
+Address: B-G-10 vista mutiara , off jalan Kepong, Kepong Baru,  Kepong, Kuala Lumpur
+Phone: +60192165774
+Email: venturemover@com.my
+------------------------------
+Name: APPCO Direct Snd Bhd
+Address: SUITES ‎24.01-02,Level 24, 67 Wisma Goldhill, Jalan Raja Chulan, Wilayah Persekutuan,  Kuala Lumpur, Kuala Lumpur
+Phone: +60129304645
+Email: appcodirectsndbhd@gmail.com
+------------------------------
+Name: Economypack Marketing
+Address: 39, Jalan 5/118C, Desa Tun Razak,, ,  Kuala Lumpur, Kuala Lumpur
+Phone: 
+Email: enquiry@economypack.com
+------------------------------
+Name: Guru Moorthy
+Address: 16 Jalan Inai, Kuala Lumpur,  Kuala Lumpur, Kuala Lumpur
+Phone: +60169903401
+Email: gurumoorthy.armanigroup@gmail.com
+------------------------------
+Name: Klinik Tuah
+Address: G-02, Kompleks Permaisuri Q, No.6, Jalan Sri Permaisuri, Bandar Sri Permaisuri,, ,  Cheras, Kuala Lumpur
+Phone: +60104041215
+Email: kliniktuahmalaysia@gmail.com
+------------------------------
+Name: Trophy Melawati Enterprise
+Address: , ,  Kuala Lumpur, Kuala Lumpur
+Phone: +601135039923
+Email: support@trophymelawati.com.my
+------------------------------
+Name: YS TRAVEL & TOURS SDN BHD
+Address: YS TRAVEL & TOURS SDN. BHD., 100 & 101, Jalan Pudu Lama,,  Kuala Lumpur, Kuala Lumpur
+Phone: 
+Email: Not listed
+------------------------------
+Name: Ebby Amran AMR Home Solutions
+Address: 393, Lrg Keramat 3, Kg Datuk Keramat,  Kuala Lumpur, Kuala Lumpur
+Phone: +601137080094
+Email: amrhomes4845@gmail.com
+------------------------------
+Name: SONALI PRODUCTS
+Address: No 67 A, Lorong Scott, Brickfields,  Wilayah Persekutuan, Kuala Lumpur
+Phone: +60129719344
+Email: sonalifashion1994@gmail.com
+------------------------------
+Name: Harpy Cyber
+Address: #25-7, Q Sentral, Jalan Stesen Sentral 2,  Kuala Lumpur, Kuala Lumpur
+Phone: +60322765856
+Email: sales@ssquad.com
+------------------------------
+Name: Regions Clinic
+Address: Unit 1-3, First Floor, Suria @ North Kiara, Jalan Seri Bintang,  Segambut, Kuala Lumpur
+Phone: +601119399888
+Email: admin@regionsclinic.com.my
+------------------------------
+Name: Rvlvr Asia
+Address: RVLVR Asia, Colabs The Five, Aras 3, Block C, The Five @ KPD, Kompleks Pejabat Damansara,, 49, Jalan Dungun, Bukit Damansara,,  Kuala Lumpur, Kuala Lumpur
+Phone: +60119081625
+Email: info@gorvlvr.com
+------------------------------
+Name: VEQTA TRANSLATIONS
+Address: S9, Jalan Stesen Sentral 5, KL Sentral Pusat  Bandar Puchong, ,  Kuala Lumpur, Kuala Lumpur
+Phone: 
+Email: info@veqta.com
+------------------------------
+Name: Airport Transfer KLIA KLIA2
+Address: KL PRIVATE CABNo18, Jalan Kiara 3,, Month Kiara,,  Kuala Lumpur, Kuala Lumpur
+Phone: 
+Email: klprivatecab@gmail.com
+------------------------------
+Name: Travel Planner
+Address: Travel PlannerB2-2-3, Solaris Dutamas, No.1, Jalan Dutamas 1, 50480 Kuala Lumpur, Federal Territory., ,  Kuala Lumpur, Kuala Lumpur
+Phone: +60103827086
+Email: info@travelplanner.com.my
+------------------------------
+Name: Professional Web Development Services Kuala Lumpur
+Address: Internut MyD21-7 Menara Mitraland, Jalan PJU 5/1, Kota Damans, Kota Damansara, Selangor, Petaling Jaya,  Selangor, Kuala Lumpur
+Phone: 
+Email: internut.my470@gmail.com
+------------------------------
+Name: V BIKES SDN BHD
+Address: 41, JALAN KENCANA 15, TAMAN KENCANA,  Cheras, Selangor, Kuala Lumpur
+Phone: 
+Email: vbikessdnbhd@gmail.com
+------------------------------
+Name: Relev Tech Sdn. Bhd.
+Address: Level 16, Sentral 1, Jalan Stesen Sentral 5, KL Sentral,, ,  Kuala Lumpur, Kuala Lumpur
+Phone: +601127876940
+Email: Not listed
+------------------------------
+Name: Eugene Anthony
+Address: Level 16, Sentral 1, Jalan Stesen Sentral 5, KL Sentral, ,  Kuala Lumpur, Kuala Lumpur
+Phone: +601127876940
+Email: customercare@relevtech.com
+------------------------------
+Name: Yoga Classes
+Address: anshika dagurDesa Parkcity, ,  Kuala Lumpur, Kuala Lumpur
+Phone: 
+Email: Not listed
+------------------------------
+Name: +60 18 982 8539
+Address: Healthworks - Chiropractic & Physiotherapy19-3, Jalan Medan Setia 1,Wilayah Persekutuan Kuala Lumpur, ,  Kuala Lumpur, Kuala Lumpur
+Phone: 
+Email: contact@myhealthworks.com.my
+------------------------------
+Name: Mobile App Development company
+Address: sandeepJalan Tun Sambanthan, Kuala Lumpur, 50470 Malaysia, ,  Kuala Lumpur, Kuala Lumpur
+Phone: 
+Email: sandeepsrivastav@techgropse.com
+------------------------------
+Name: List you Company on Malaysia’s Biggest Online Business Directory & Marketplace
+Address: Sarah Abdul SukorA1 21 05, 5 Jalan Dutamas Melati, ,  Kuala Lumpur, Kuala Lumpur
+Phone: +60125002103
+Email: sasukor213@gmail.com
+------------------------------
+Name: Tote bag printing
+Address: ShoptotebagMenara Mutiara Sentral, 2, Jalan Desa Aman 1, Cheras Business Centre, 56100 Cheras, Kuala Lumpur, ,  Kuala Lumpur, Kuala Lumpur
+Phone: +60169811332
+Email: sales@shoptotebag.com
+------------------------------
+Name: RELYONUS MAJU SDN BHD
+Address: 20A First Floor Jalan Ipoh Kecil, Off Jalan Ipoh,  Kuala Lumpur, Kuala Lumpur
+Phone: 
+Email: Not listed
+------------------------------
+Name: Shoptotebag
+Address: Menara Mutiara Sentral, 2, Jalan Desa Aman 1, Cheras Business Centre, 56100 Cheras, Kuala Lumpur, ,  Kuala Lumpur, Kuala Lumpur
+Phone: +60169811332
+Email: sales@shoptotebag.com
+------------------------------
+Name: The Futuristic Group
+Address: The Futuristic GroupC-20-05, KL Trillion, Jln Tun Razak, Wilayah Persekutuan Kuala Lumpur, ,  Kuala Lumpur, Kuala Lumpur
+Phone: 
+Email: hello@gofuturistic.com.my
+------------------------------
+Name: ELANTECH
+Address: Lot 568-3-140, Kompleks Mutiara, Batu 3 ½ Jalan Ipoh, 51200 Kuala Lumpur, ,  Kuala Lumpur City, Kuala Lumpur
 Phone: +60149321770
 Email: elan@elantech.com.my
 ------------------------------
-Name: AppAsia specialises in building big data digital platform (Edit)
-Address: Extol Corporation Sdn Bhd1-40-1, Menara Bangkok Bank, Berjaya Central Park, No. 105 Jalan Ampang,  Kuala Lumpur, Kuala Lumpur
+Name: Elangeswaran Rajendran
+Address: Lot 568-3-140, Kompleks Mutiara, Batu 3 ½ Jalan Ipoh, 51200 Kuala Lumpur, ,  Kuala Lumpur City, Kuala Lumpur
+Phone: +60149321770
+Email: elan@elantech.com.my
+------------------------------
+Name: TECHNOLOGYNOVA SDN BHD
+Address: , ,  Kuala Lumpur, Kuala Lumpur
+Phone: +60172971011
+Email: Not listed
+------------------------------
+Name: TECHNOLOGYNOVA SDN. BHD.
+Address: , ,  Kuala Lumpur, Kuala Lumpur
+Phone: +60172971011
+Email: Not listed
+------------------------------
+Name: Sewa Starlink Malaysia
+Address: Zuridan MuhammadNo 1-18D, PPR Cochrane 2, Jalan Keledek,  Kuala Lumpur, Kuala Lumpur
+Phone: +60173069707
+Email: info@starlink.com
+------------------------------
+Name: Education ERP Software
+Address: Elvis ERP52-4, Jalan Metro Pudu 2,, Fraser Business Park,,  Kuala Lumpur, Kuala Lumpur
 Phone: 
+Email: sales@elviserp.com
+------------------------------
+Name: james joseph
+Address: Menara MyIPO. PJ Sentral, Lot 12, Persiaran Barat, Seksyen 52 46200 Petaling Jaya Selangor, Persiaran Barat,  Petaling Jaya, Kuala Lumpur
+Phone: 
+Email: jamesjoseph0000004@gmail.com
+------------------------------
+Name: Mobile Windscreen Cheras
+Address: 54, Jalan Jejaka, Taman Maluri,  Cheras, Kuala Lumpur
+Phone: +60177493038
+Email: mobilewindscreen.cheras@gmail.com
+------------------------------
+Name: Total Cleaning Services of Kuala Lumpur
+Address: 170-2, Jalan Radin Bagus, Bandar Baru Sri Petaling, ,  Kuala Lumpur, Kuala Lumpur
+Phone: 
+Email: kualalumpur@totalcleaningservices.com.my
+------------------------------
+Name: Nour Edden
+Address: 15623, Jalan 2/57d, Segambut,  Kuala Lumpur, Kuala Lumpur
+Phone: +601160656240
+Email: nourwo@gmail.com
+------------------------------
+Name: Rick Tan
+Address: 28-1 Jalan Wangsa Setia 4,, Wangsa Melawati,  Setapak, Kuala Lumpur
+Phone: +60163361205
+Email: enquiry@totalmas.com
+------------------------------
+Name: CL TECHNOLOGIES (INTERNATIONAL) SDN BHD
+Address: NO.43 JALAN BESAR KEPONG, KEPONG,  Kepong, Kuala Lumpur
+Phone: 
+Email: Not listed
+------------------------------
+Name: Pro Electrician of Kuala Lumpur
+Address: Pro Electrician of Kuala Lumpur28-1, Jalan Indrahana 1, Taman Indrahana, ,  Wilayah Persekutuan Kuala Lumpur, Kuala Lumpur
+Phone: 
+Email: kualalumpur@proelectrician.com.my
+------------------------------
+Name: Helena Ali
+Address: B-20-1 Maxim Residence, Taman Len Seng,  Cherasas, Kuala Lumpur
+Phone: +60166777021
+Email: helenaideassolution@icloud.com
+------------------------------
+Name: Blair & Associates
+Address: 62-1 First Floor, The Row, Jalan Doraisamy 50300 Kuala Lumpur, Malaysia, ,  Kuala Lumpur, Kuala Lumpur
+Phone: +60182308313
+Email: info@batikboutique.com
+------------------------------
+Name: En Hamzah
+Address: Tingkat 14, Menara TH Perdana 1001, Jalan Sultan Ismail,  Kuala Lumpur, Kuala Lumpur
+Phone: 
+Email: enquiry@logosendiri.com
+------------------------------
+Name: Low & Zhi Associates
+Address: Level 23-1, Premier Suite, 1 Mont Kiara, No. 1, Jalan Kiara, Mont Kiara, ,  Kuala Lumpur, Kuala Lumpur
+Phone: 
+Email: Not listed
+------------------------------
+Name: I Assist (M) Sdn Bhd
+Address: No 2, Jalan Desa Aman 1,, ,  Kuala Lumpur, Kuala Lumpur
+Phone: +60124266796
+Email: alexchin7@gmail.com
+------------------------------
+Name: Soori deemudu
+Address: 3606 villa 3 villa pandan condo, jalan pandan indah 1/16,  PANDAN INDAH, Kuala Lumpur
+Phone: +60173368387
+Email: sridurgahjkv@gmail.com
+------------------------------
+Name: Blockode Sdn Bhd
+Address: B2-2-2, Solaris Dutamas, 1, Jalan Dutamas 1,  Kuala Lumpur, Kuala Lumpur
+Phone: 
+Email: support@blockode.co
+------------------------------
+Name: MAJU JAYA PASARANA SDN. BHD.
+Address: No. 2A, Jalan Pandan 3/6A, Pandan Jaya,  Kuala Lumpur, Kuala Lumpur
+Phone: 
+Email: Not listed
+------------------------------
+Name: Richard aw
+Address: b-2-4, endah ria condo jalan 3/149e,  Kuala Lumpur, Kuala Lumpur
+Phone: +60163361331
+Email: richard.unifi@gmail.com
+------------------------------
+Name: Jenson Agency Marketing
+Address: 2-05 The Park 2 Residence, Persiaran Jalil 5,  Bukit Jalil, Kuala Lumpur
+Phone: 
+Email: jenson.agency@gmail.com
+------------------------------
+Name: PAY POKKET ENTERPRISE
+Address: , ,  Kuala Lumpur, Kuala Lumpur
+Phone: 
+Email: Not listed
+------------------------------
+Name: alwayscallanand
+Address: Unit 09-3A, 9th Floor Sentral Vista,, Brickfields, 50470 Kuala Lumpur,  Kuala Lumpur, Kuala Lumpur
+Phone: +601116521900
+Email: anand10sundram@gmail.com
+------------------------------
+Name: khairul
+Address: The Park 2 Residence,, ,  Kuala Lumpur, Kuala Lumpur
+Phone: +60169339680
+Email: Not listed
+------------------------------
+Name: Dazzling Smiles Dental PLT
+Address: C-1-23, Jalan Kuchai Maju 1, Kuchai Lama,  Kuala Lumpur, Kuala Lumpur
+Phone: +60109296396
+Email: dazzlingsmilesdc@gmail.com
+------------------------------
+Name: Dazzling Smiles Dental
+Address: C-1-23, Jalan Kuchai Maju 1, Kuchai Lama,  Kuala Lumpur, Kuala Lumpur
+Phone: +60109296396
+Email: dazzlingsmilesdc@gmail.com
+------------------------------
+Name: Professional Web Design Services to Increase Your Business Visibility
+Address: D-05-08 & D-05-09, Block D, Plaza Mont Kiara,, Jalan Kiara, Mont Kiara,  Kuala Lumpur, Malaysia, Kuala Lumpur
+Phone: +601161999367
+Email: info@5star.my
+------------------------------
+Name: Thomas Patt
+Address: No 3-2-1 Jalan Medan Putra 3, Medan Putra Business Centre,  Kuala Lumpur, Kuala Lumpur
+Phone: +60162259696
+Email: 388kepong@gmail.com
+------------------------------
+Name: Peter Ee
+Address: AG-029, 1 Shamelin Shopping Mall, Kuala Lumpur, ,  Kuala Lumpur, Kuala Lumpur
+Phone: 
+Email: alanee44@gmail.com
+------------------------------
+Name: TRINITY GENESIS ORIGO DEVELOPMENT SDN BHD
+Address: NO 1 TINGKAT 2 JALAN WANGSA DELIMA 10, SETAPAK,  Kuala Lumpur, Kuala Lumpur
+Phone: +60123371090
+Email: lowchinann@genesisorigo.com
+------------------------------
+Name: GENESIS ORIGO
+Address: No 1, Tingkat 2, Jalan Wangsa Delima 10, Wangsa Maju,  Setapak, Kuala Lumpur
+Phone: +60123371090
+Email: lowchinann@genesisorigo.com
+------------------------------
+Name: Low Chin Ann
+Address: NO 1 TINGKAT 2 JALAN WANGSA DELIMA 10, SETAPAK,  Kuala Lumpur, Kuala Lumpur
+Phone: +60123371090
+Email: lowchinann@genesisorigo.com
+------------------------------
+Name: OneSpine Chiropractic & Physiotherapy Center
+Address: , ,  Kuala Lumpur, Kuala Lumpur
+Phone: 
+Email: info@onespine.com.my
+------------------------------
+Name: Weplay Consulting
+Address: 18-17 FLR 18, MENARA K1,, LRG 3/137C OFF JALAN KELANG LAMA,,  Kuala Lumpur, Kuala Lumpur
+Phone: +601124154054
+Email: Not listed
+------------------------------
+Name: Euphony Musical
+Address: 9-1A, Jalan Pandan Indah 4/1, Pandan Indah, 55100 Kuala Lumpur, Selangor, ,  Kuala Lumpur, Kuala Lumpur
+Phone: +60129843177
+Email: euphonymusical@gmail.com
+------------------------------
+Name: Sean Chen
+Address: D-7-3A, Menara Suezcap 1, KL Gateway,, No 2, Jalan Kerinchi, Gerbang Kerinchi Lestari,  Kuala Lumpur, Kuala Lumpur
+Phone: 
+Email: sean@smartsolutionslearning.com
+------------------------------
+Name: clinic medi intan Klinik
+Address: 299 jalan Pudu, ,  Wilayah Persekutuan, Kuala Lumpur
+Phone: +601980850000
+Email: clinicmediintan@gmail.com
+------------------------------
+Name: Jade Corporate Services
+Address: Bandar Baru Sri Petaling, Kuala Lumpur,  Kuala Lumpur, Kuala Lumpur
+Phone: +60173764989
+Email: enquiry@getaccountingservices.com
+------------------------------
+Name: Ensetcorp
+Address: Unit D-21-08, Menara Suezcap 1, Tower 1, KL Gateway, Jalan Kerinchi, Kuala Lumpur Malaysia., ,  Kuala Lumpur, Kuala Lumpur
+Phone: 
+Email: marketing@ensetcorp.com
+------------------------------
+Name: Kim Kwan
+Address: No 8, Jalan Tembaga SD 5/2d,, Bandar Sri Damansara,,  Kuala Lumpurs, Selangor
+Phone: +60163067662
+Email: kimkwan@bizsensedigital.biz
+------------------------------
+Name: Find a Babysitter or Babysitting Job
+Address: Sitly Malaysia, ,  Kuala Lumpur, Kuala Lumpur
+Phone: 
+Email: info@sitly.my
+------------------------------
+Name: Sitly Malaysia
+Address: , ,  Kuala Lumpur, Kuala Lumpur
+Phone: 
+Email: info@sitly.my
+------------------------------
+Name: test boost
+Address: , ,  Kuala Lumpur, Kuala Lumpur
+Phone: 
+Email: Not listed
+------------------------------
+Name: Lee Chin Sheng
+Address: 22-12 Q Sentral, Jalan Stesen Sentral 2,, ,  Kuala Lumpur, Kuala Lumpur
+Phone: 
+Email: edutowndaycare@gmail.com
+------------------------------
+Name: DrinksKingdomSdnBhd
+Address: LOT 19, Jalan E 1/4, Taman Perindustrian Ehsan Jaya,,  Kuala Lumpur, Kuala Lumpur
+Phone: +60126776083
+Email: drinkskingdom2016@gmail.com
+------------------------------
+Name: ADMAAN Health
+Address: NO 76 - G , JALAN 1 , TAMAN LEN SENG, ,  Wilayah Persekutuan Kuala Lumpur, Kuala Lumpur
+Phone: +60122018534
+Email: admaanhs@gmail.com
+------------------------------
+Name: SI HAI PACIFIC (M) SDN BHD
+Address: J-23-18 ,Eko Cheras Residence, No. 693, Jalan Cheras, Batu 5,  Cheras, Kuala Lumpur
+Phone: 
+Email: Not listed
+------------------------------
+Name: Fast Medicare Services
+Address: 03-02-05 BLOCK C KUCHAI BREM PARK, JALAN SELESA 2,  Kuala Lumpur, Kuala Lumpur
+Phone: +60126942866
+Email: fastmedicareservice@gmai.com
+------------------------------
+Name: Primal Malaysia
+Address: Mercu 2, Level 40, No.3, Jalan Bangsar, KL Eco City, 59200 Kuala Lumpur., ,  Kuala Lumpur, Kuala Lumpur
+Phone: 
+Email: Not listed
+------------------------------
+Name: Kai Yue Xuan Restaurant Sdn Bhd
+Address: 44594, Jalan Dataran Velodrom, Bandar Tun Razak,  Cheras, Kuala Lumpur
+Phone: +60162176852
+Email: kyxrestaurantsb@gmail.com
+------------------------------
+Name: TIEN SUN TIEN RESTAURANT
+Address: B06-G-01, G, Ftth Blok 06 Queen Avenue, Jalan Bayam,  Kuala Lumpur, Kuala Lumpur
+Phone: +601151099991
+Email: yvvone77@gmail.com
+------------------------------
+Name: Ronnie
+Address: , ,  Kuala Lumpur, Kuala Lumpur
+Phone: 
+Email: Not listed
+------------------------------
+Name: BizAdvisor Digital
+Address: SOHO Suites @ KLCC, Block A2, Level 23-2, No. 20, ,  Kuala Lumpur, Kuala Lumpur
+Phone: +60199328361
+Email: hello@bizadvisordigital.com
+------------------------------
+Name: ECROP TECH SDN BHD
+Address: LEVEL 10 ,KL GATEWAY MALL 2, JALAN KERINCHI,  Kuala Lumpur, Kuala Lumpur
+Phone: 
+Email: Not listed
+------------------------------
+Name: ANG SIEW TENG ARCHITECT
+Address: A2107, Residensi Andes Ria,, Jalan Mas 3,  Kuala Lumpur, Kuala Lumpur
+Phone: +60123787559
+Email: angsiewtengarchitect@gmail.com
+------------------------------
+Name: EAS Maju Jaya Trading
+Address: A-37-21, Berjaya Services Apartment, Jalan Imbi, Bukit Bintang,  Kuala Lumpur, Kuala Lumpur
+Phone: +60128253117
+Email: shahrulrman@gmail.com
+------------------------------
+Name: Lullaby
+Address: No.143-1, Jalan Radin Bagus, Bandar Sri Petaling,  W.P. Kuala Lumpur, Kuala Lumpur
+Phone: 
+Email: lullaby.centre@gmail.com
+------------------------------
+Name: Company Alibababababa
+Address: , ,  Cheras, Kuala Lumpur
+Phone: 
+Email: Not listed
+------------------------------
+Name: Prints Buddy Enterprise
+Address: No. 10-1 (1st Floor), Block 3a, Jalan Wangsa Delima 10,  Gombak , Setapak,Wangsa Maju, Kuala Lumpur
+Phone: +60163248800
+Email: printsbuddy@gmail.com
+------------------------------
+Name: Company Tesla Aduk
+Address: , ,  Kuala Lumpur, Kuala Lumpur
+Phone: 
+Email: Not listed
+------------------------------
+Name: NVI TRADING SDN BHD
+Address: , PETALING JAYA 2,  Kuala Lumpur, Kuala Lumpur
+Phone: +601112884907
+Email: irene_chy@yahoo.com
+------------------------------
+Name: MISS IRENE CHY
+Address: PETALING JAYA 2, ,  Kuala Lumpur, Kuala Lumpur
+Phone: +601112884907
+Email: irene_chy@yahoo.com
+------------------------------
+Name: K LATHA ENTERPRISE
+Address: SELANGOR TIMUR 1, ,  Kuala Lumpur, Kuala Lumpur
+Phone: +60123636679
+Email: latharajah65@gmail.com
+------------------------------
+Name: K LATHA  A/P KALIYAPPAN
+Address: SELANGOR TIMUR 1, ,  Kuala Lumpur, Kuala Lumpur
+Phone: +60123636679
+Email: latharajah65@gmail.com
+------------------------------
+Name: testing raya
+Address: , ,  Kuala Lumpur, Kuala Lumpur
+Phone: 
+Email: Not listed
+------------------------------
+Name: Panacea Bizz
+Address: MENARA K1- COMMERCE 1,  19-17, LORONG 3/137c OFF JALAN KLANG LAMA,  Kuala Lumpur, Kuala Lumpur
+Phone: +60109841916
+Email: panacea.bizz@gmail.com
+------------------------------
+Name: MADANI MAKMUR SDN.BHD.
+Address: 34-G, JALAN TUN MOHD FUAD 2, TAMAN TUN DR ISMAIL,  Kuala Lumpur, Kuala Lumpur
+Phone: +60122265465
+Email: fadzleen78@gmail.com
+------------------------------
+Name: Company CO2
+Address: , ,  Cheras, Kuala Lumpur
+Phone: 
+Email: Not listed
+------------------------------
+Name: Company Checking 2
+Address: , ,  Cheras, Kuala Lumpur
+Phone: 
+Email: Not listed
+------------------------------
+Name: Company Dis Check
+Address: , ,  Cheras, Kuala Lumpur
+Phone: 
+Email: Not listed
+------------------------------
+Name: Company Lynnlicious Checking 1
+Address: , ,  Cheras, Kuala Lumpur
+Phone: 
+Email: Not listed
+------------------------------
+Name: Company onKing
+Address: , ,  Cheras, Kuala Lumpur
+Phone: 
+Email: Not listed
+------------------------------
+Name: BUTTER TRADE SDN. BHD.
+Address: 3 Jalan Mivo 1, Taman Perindustrian Desa Aman,, ,  Wilayah Persekutuan, Kuala Lumpur
+Phone: 
+Email: Not listed
+------------------------------
+Name: LIM HUEY WEI
+Address: 3 Jalan Mivo 1, Taman Perindustrian Desa Aman,, ,  Wilayah Persekutuan, Kuala Lumpur
+Phone: +60122126299
+Email: katelim@buttertrade.com.my
+------------------------------
+Name: CHERAS HOTEL SDN. BHD.
+Address: 167-1 LEVEL 1, JALAN LANCANG, TAMAN SERI BAHTERA,  Kuala Lumpur, Kuala Lumpur
+Phone: +60172633485
+Email: aaron.lai@anrhotel.com
+------------------------------
+Name: AYAYU SDN BHD
+Address: 55 LEVEL 1, PLAZA DAMANSARA, JALAN MEDAN SETIA 1, BUKIT DAMANSARA,  Kuala Lumpur, Kuala Lumpur
+Phone: +60183800387
+Email: ayusyumalaysia@gmail.com
+------------------------------
+Name: Test 1 off payment
+Address: , ,  Kuala Lumpur, Kuala Lumpur
+Phone: 
+Email: Not listed
+------------------------------
+Name: AIY Venture
+Address: 19 Level G, Jalan Damai Niaga, Alam Damai, ,  Cheras, Kuala Lumpur
+Phone: +60137898782
+Email: uvkool.cheras@gmail.com
+------------------------------
+Name: Godomall Sdn Bhd
+Address: 19-A Level G, Jalan Desa 2/8, Desa Aman Puri,  Kepong, Kuala Lumpur
+Phone: 
+Email: info@godomall.my
+------------------------------
+Name: INTERSPACE DIGITAL MALAYSIA SDN BHD
+Address: B-13-04, Northpoint Office, Mid Valley City No 1 Medan Syed Putra Utara 59200 Kuala Lumpur, Malaysia, ,  Kuala Lumpur, Kuala Lumpur
+Phone: +60129354491
+Email: support@interspace.my
+------------------------------
+Name: ACCESSTRADE MALAYSIA
+Address: B-13-04, Northpoint Office, Mid Valley City No 1 Medan Syed Putra Utara 59200 Kuala Lumpur, Malaysia, ,  Kuala Lumpur, Kuala Lumpur
+Phone: +60129354491
+Email: support@interspace.my
+------------------------------
+Name: encoregroup sdn bhd
+Address: 10-3a-06 queens avenue,jalan bayam off, jalan peel 55100 kl,  Kuala Lumpur, Kuala Lumpur
+Phone: +60172232646
+Email: encoregroupsdnbhd@gmail.com
+------------------------------
+Name: Homage Sdn Bhd
+Address: #17-103, Plaza Equatorial, Jalan Sultan Ismail,  Kuala Lumpur, Kuala Lumpur
+Phone: +60162992188
+Email: malaysia@homage.co
+------------------------------
+Name: JIAOYI ENTERPRISE
+Address: B-11-23, PANGSAPURI CEMARA, ,  Bandar Sri Permaisuri, Kuala Lumpur
+Phone: +60194162450
+Email: jiaoyi.my@hotmail.com
+------------------------------
+Name: LAI MIN WANG
+Address: B-11-23, PANGSAPURI CEMARA,, JALAN SRI PERMAISURI 3,,  Bandar Sri Permaisuri, Kuala Lumpur
+Phone: +60162716172
+Email: leonlaiminwang@hotmail.com
+------------------------------
+Name: Glowkl
+Address: 283 Jalan Ampang, ,  kualalumpur, Kuala Lumpur
+Phone: +60189001909
+Email: marketplace@glowkl.com
+------------------------------
+Name: SAINT YI HARDWARE TOOLS TRADING
+Address: 272-2-1, Wisma Mutiara Genting,, Jalan Genting Kelang,,  Setapak, Kuala Lumpur
+Phone: +60166187505
+Email: wtansp@yahoo.com
+------------------------------
+Name: TAN SOON PING
+Address: 272-2-1, WISMA MUTIARA GENTING, JALAN GENTING KLANG,  Setapak, Kuala Lumpur
+Phone: +60169492267
+Email: wtansp@yahoo.com
+------------------------------
+Name: test1off
+Address: , ,  Kuala Lumpur, Kuala Lumpur
+Phone: 
+Email: Not listed
+------------------------------
+Name: Travel For All
+Address: Leisure Mall Shopping Complex, Lot L2-06, Second Floor, Jalan Manis 2, Taman Segar 56100 Kuala Lumpur Federal Territory, ,  Cheras, Kuala Lumpur
+Phone: 
+Email: tours@cempakatravelbug.com
+------------------------------
+Name: Ministry of Design (KL Branch)
+Address: Menara UOA Bangsar, 5, Jalan Bangsar Utama 1,  Kuala Lumpur, Kuala Lumpur
+Phone: 
+Email: studio@modonline.com
+------------------------------
+Name: ASCO Law - Akmal Saufi & Co
+Address: Level 25, Menara Worldwide, 198, Jalan Bukit Bintang,  Kuala Lumpur, Kuala Lumpur
+Phone: +60384085554
+Email: kualalumpur@ascolaw.co
+------------------------------
+Name: Henkel (Malaysia) Sdn. Bhd.
+Address: Unit 2.01 2.02, Level 2 Mercu 3, Jalan Bangsar, ,  Kampung Haji Abdullah Hukum, Kuala Lumpur
+Phone: 
+Email: Not listed
+------------------------------
+Name: Mead Johnson Nutrition (M) Sdn Bhd
+Address: 201, Jalan Tun Sambanthan, ,  Federal Territory of Kuala Lumpur, Kuala Lumpur
+Phone: 
+Email: mj.mal@mjn.com
+------------------------------
+Name: Helena Ideas Solution
+Address: Maxim, B-20-1 Majestic, Taman Len Seng, Wilayah Persekutuan Kuala Lumpur, ,  Cheras, Kuala Lumpur
+Phone: +60166777021
+Email: Not listed
+------------------------------
+Name: Primal Digital Agency Malaysia
+Address: Boutique Office 1 (B0 1-C Level 19, Menara 2, ,  Petaling Jaya, Kuala Lumpur
+Phone: 
+Email: Not listed
+------------------------------
+Name: Jet Creative Design
+Address: 30th Floor, Gardens North Tower, ,  Lingkaran Syed Putra, Kuala Lumpur
+Phone: 
+Email: Not listed
+------------------------------
+Name: Suka Benih Coffee
+Address: 15, Lorong Setiabistari 2, Bukit Damansara,  Wilayah Persekutuan, Kuala Lumpur
+Phone: +60320113700
+Email: Not listed
+------------------------------
+Name: SSB WORLDWIDE SDN. BHD
+Address: LOT 5-2-7 F-3-7, PUSAT KOMER SIAL JALAN KUCHING NO 115 JALAN KEPAYANG OFF,  Kuala Lumpur, Kuala Lumpur
+Phone: 
+Email: Not listed
+------------------------------
+Name: Test flow
+Address: , ,  Kuala Lumpur, Kuala Lumpur
+Phone: 
+Email: Not listed
+------------------------------
+Name: Leo Asmadi
+Address: Mega Kuningan No.2 Jl. Dr. Ide Anak Agung Gde Agung Kav E 4-2, Gedung Mega Kuningan,  JAKARTA SELATAN, Kuala Lumpur
+Phone: +6085824711648
+Email: admin@dax-trade.com
+------------------------------
+Name: Razana Ismail
+Address: A-13-13A Cengal condominium, Bandar Sri Permaisuri,  Cheras, Kuala Lumpur
+Phone: +60183915638
+Email: azana1974@gmail.com
+------------------------------
+Name: Ali Muthu Berhad
+Address: , ,  Kuala Lumpur, Kuala Lumpur
+Phone: 
+Email: Not listed
+------------------------------
+Name: Farid Idris
+Address: 23-1-K02, Jalan Wangsa Delima 5,, Seksyen 5, Wangsa Maju,  Setapak, Kuala Lumpur
+Phone: +60136346497
+Email: sales@gowireless.my
+------------------------------
+Name: MRH Audio
+Address: , ,  Kuala Lumpur, Kuala Lumpur
+Phone: 
+Email: Not listed
+------------------------------
+Name: Shang Cheng Group Sdn Bhd
+Address: No 9, Jalan Berlian, Kepong Baru,, ,  Kuala Lumpur, Kuala Lumpur
+Phone: +60124243484
+Email: Not listed
+------------------------------
+Name: Daphne
+Address: C-20-15, ,  Kuala Lumpur, Kuala Lumpur
+Phone: 
+Email: Not listed
+------------------------------
+Name: Bake with heart
+Address: , ,  Kuala Lumpur, Kuala Lumpur
+Phone: 
+Email: Not listed
+------------------------------
+Name: Mitra Malaysia Sdn Bhd
+Address: Lot 6.03A, Level 6, Wisma Central, Jalan Ampang,  Kuala Lumpur, Kuala Lumpur
+Phone: 
+Email: info@mitra.travel
+Status: INVALID/UNREACHABLE
+------------------------------
+Name: Lim Agency
+Address: No. 380,, Jalan Raja Laut,,  Kuala Lumpur, Kuala Lumpur
+Phone: +603-4041 0127
+Email: tommylimagency@hotmail.com
+Status: INVALID/UNREACHABLE
+------------------------------
+Name: Steelon Roofing Systems Sdn Bhd
+Address: 4-2-4,  Queen Avenue, Jalan Bayam,, Off Jalan Peel,,  Kuala Lumpur, Kuala Lumpur
+Phone: +603-9205 5330
+Email: steelon_kl@yahoo.com
+Status: INVALID/UNREACHABLE
+------------------------------
+Name: Inter-Register Communications (M) Sdn Bhd
+Address: No 34, Jalan Tanjung SD 13/1,, Bandar Sri Damansara,,  Kuala Lumpur, Kuala Lumpur
+Phone: +603-6272 8000
+Email: general@irc.com.my
+Status: INVALID/UNREACHABLE
+------------------------------
+Name: Klinik Pergigian Kheng
+Address: No. 138, 1st Floor,, Jalan Tun H S Lee,,  Kuala Lumpur, Kuala Lumpur
+Phone: +603-2078 4028
+Email: klinikpergigiankheng@gmail.com
+Status: INVALID/UNREACHABLE
+------------------------------
+Name: Anar Paper Co Sdn Bhd
+Address: No. 276, Jalan Tun Sambanthan (Brickfields),  Brickfields, Kuala Lumpur
+Phone: +60177473163
+Email: info@anarpaper.com
+Status: INVALID/UNREACHABLE
+------------------------------
+Name: P & M Electrical & Mechanical Sdn Bhd
+Address: No. 19, Jalan Mega,, Taman Mega Jaya, Cheras,,  Kuala Lumpur, Kuala Lumpur
+Phone: +603-4293 3415
+Email: pmemsb2009@hotmail.com
+Status: INVALID/UNREACHABLE
+------------------------------
+Name: Mitra Kembara Sdn Bhd
+Address: Lot 6.03A, Level 6, Wisma Central, Jalan Ampang,  Kuala Lumpur, Kuala Lumpur
+Phone: 
+Email: norzaile@mitrakembara.travel
+Status: INVALID/UNREACHABLE
+------------------------------
+Name: SPS Intertrade Sdn Bhd
+Address: Unit F, Excella Business Park, Jalan Ampang Putra,, Taman Ampang Hilir,,  Kuala Lumpur, Kuala Lumpur
+Phone: +603-4270 2022
+Email: spstm68@yahoo.com
+Status: INVALID/UNREACHABLE
+------------------------------
+Name: Extol Corporation Sdn Bhd
+Address: , ,  Kuala Lumpur, Kuala Lumpur
+Phone: +60321813666
 Email: info@appasia.com
+Status: VALID
 ------------------------------
-Name: Peter Chong & Co
-Address: SOHO Suites @ KLCC, Block A2, Level 31-3,, No. 20, Jalan Perak,,  Kuala Lumpur, Kuala Lumpur
-Phone: +603-2181 7447
-Email: info@peterchongco.com
+Name: STH & Co
+Address: 129-A, Jalan Genting Kelang, Setapak,,  Setapak, Kuala Lumpur
+Phone: 
+Email: sthadvisory@gmail.com
+Status: VALID
 ------------------------------
-Name: DE L.A. SIGNS & ADVERTISING TRADING
-Address: No. 18A, Jalan KIP 1,, Taman Perindustrian KIP, Kepong,,  Kuala Lumpur, Kuala Lumpur
-Phone: +6010-221 6668 / 019-265 2848
+Name: AppAsia Berhad
+Address: E-1-4, 1st Floor, Megan Avenue 1, Jalan Tun Razak,  Kuala Lumpur, Kuala Lumpur
+Phone: +60321813666
+Email: info@appasia.com
+Status: INVALID/UNREACHABLE
+------------------------------
+Name: Muhibbah Security Sdn Bhd
+Address: No. 8, Lorong 6A/91, Taman Shamelin Perkasa,  Kuala Lumpur, Kuala Lumpur
+Phone: 
+Email: info@muhibbahsecurity.com.my
+Status: INVALID/UNREACHABLE
+------------------------------
+Name: Super Air-Cond Parts & Supplies Sdn Bhd
+Address: No. 35, Jalan Gelang,, Off Jln Sungai Besi,,  Kuala Lumpur, Kuala Lumpur
+Phone: +603-9223 2430
+Email: superaircond@gmail.com
+Status: VALID
+------------------------------
+Name: Syarikat City Corporation
+Address: 30 Jalan 1B/108C, Taman Sungai Besi,  Kuala Lumpur, Kuala Lumpur
+Phone: +60379833214
+Email: citycorp.kl@gmail.com
+Status: VALID
+------------------------------
+Name: Awasiapi (M) Sdn Bhd
+Address: No. 38, 2nd Floor, Jalan 8/23E,, Danau Kota,,  Setapak, Kuala Lumpur
+Phone: +603-4149 3148
+Email: awasiapi_mis83@yahoo.com
+Status: INVALID/UNREACHABLE
+------------------------------
+Name: Fujit Plastic Industries Sdn Bhd
+Address: 102 & 103, Block P/D, Lorong Kaskas, Taman Cheras,  Kuala Lumpur, Kuala Lumpur
+Phone: +603-9130 5537
+Email: fujitplastic@yahoo.com
+Status: INVALID/UNREACHABLE
+------------------------------
+Name: Marco Polo Restaurant
+Address: 1st Floor, Wisma Lim Foo Yong, 86, Jln Raja Chulan,  Kuala Lumpur, Kuala Lumpur
+Phone: +60321412233
+Email: marcopolorestaurant@yahoo.com
+Status: INVALID/UNREACHABLE
+------------------------------
+Name: FLC Maintenance Specialist Sdn Bhd
+Address: No. 88, Jln Talalla, ,  Kuala Lumpur, Kuala Lumpur
+Phone: +603-2148 5780
+Email: flc_clean@hotmail.com
+Status: INVALID/UNREACHABLE
+------------------------------
+Name: De La Signs & Advertising Trading
+Address: No. 2, Jln Tembaga Sd 5/2E, Taman Sri Damansara,  Kepong, Kuala Lumpur
+Phone: +603-6277 6669
 Email: l_a_signs@yahoo.com
+Status: INVALID/UNREACHABLE
 ------------------------------
-Name: Universiti Kuala Lumpur
-Address: 1016, Jalan Sultan Ismail, ,  Kuala Lumpur, Kuala Lumpur
-Phone: +603-2175 4000
-Email: enquiries@unikl.edu.my
+Name: Fujit Plastic Industries Sdn Bhd
+Address: 102 & 103, Block P/D, Lorong Kaskas, Taman Cheras,  Kuala Lumpur, Kuala Lumpur
+Phone: +603-9130 5537
+Email: fujitplastic@yahoo.com
+Status: INVALID/UNREACHABLE
 ------------------------------
-Name: Big Ben Transport & Tours Sdn Bhd
-Address: D1-3A-13A, Solaris Dutamas 1,, Jalan Dutamas, Mont Kiara,,  Kuala Lumpur, Kuala Lumpur
-Phone: +6012-364 4437
-Email: bigbentransportation@gmail.com
+Name: Epsoner F & B Equipment Sdn Bhd
+Address: No. 47, Jalan 10/91,, Taman Shamelin Perkasa,,  Kuala Lumpur, Kuala Lumpur
+Phone: +603-9200 7727
+Email: info@epsoner.com
+Status: INVALID/UNREACHABLE
 ------------------------------
-Name: Fook Hing Casket Sdn Bhd
-Address: 19C, Jalan Dewan Bahasa,, Off Jalan Lapangan Terbang Lama Bukit Seputeh,,  Kuala Lumpur, Kuala Lumpur
-Phone: +603-2148 0000
-Email: contact@casket-paradise.com.my
+Name: Choong Hing Trading Sdn Bhd
+Address: No. 17 & 19, Jalan 5/91,, Taman Shamelin Perkasa, Batu 3 1/2, Jalan Cheras,,  Kuala Lumpur, Kuala Lumpur
+Phone: +603-9282 0611
+Email: chts1719@gmail.com
+Status: VALID
 ------------------------------
-Name: TM Info-Media Sdn. Bhd. (HQ)
-Address: Level 36 (North), Menara TM, Jalan Pantai Baharu,  Kuala Lumpur, Kuala Lumpur
-Phone: +601 300 88 9355
-Email: formserv1983@gmail.com
+Name: De La Signs & Advertising Trading
+Address: No. 2, Jln Tembaga Sd 5/2E, Taman Sri Damansara,  Kepong, Kuala Lumpur
+Phone: +603-6277 6669
+Email: l_a_signs@yahoo.com
+Status: INVALID/UNREACHABLE
 ------------------------------
-Name: Top Window Furnishing Sdn Bhd
-Address: No. 9, Jln Pandan Indah 4/4, Taman Pandan Indah,  Kuala Lumpur, Kuala Lumpur
-Phone: +603-4293 1820
-Email: topwindowhse@yahoo.com
+Name: Mitra Malaysia Sdn Bhd
+Address: Lot 6.03A, Level 6, Wisma Central, Jalan Ampang,  Kuala Lumpur, Kuala Lumpur
+Phone: 
+Email: info@mitra.travel
+Status: INVALID/UNREACHABLE
 ------------------------------
-Name: Hussein & k. h. Chong Jurutera Perunding (M) Sdn Bhd
-Address: 602, Loke Yew Building, 4 Jln Mahkamah Persekutuan, P.O Box 11118,,  Kuala Lumpur, Kuala Lumpur
-Phone: +603-2698 8980
-Email: hkhc03@gmail.com
+Name: Lim Agency
+Address: No. 380,, Jalan Raja Laut,,  Kuala Lumpur, Kuala Lumpur
+Phone: +603-4041 0127
+Email: tommylimagency@hotmail.com
+Status: INVALID/UNREACHABLE
 ------------------------------
-Name: Ann Office Supplies
-Address: No. 7A, Jalan 6/23E,, Taman Danau Kota, Setapak,,  Setapak, Kuala Lumpur
-Phone: +603-4021 9743
-Email: annoffice@yahoo.com
+Name: Steelon Roofing Systems Sdn Bhd
+Address: 4-2-4,  Queen Avenue, Jalan Bayam,, Off Jalan Peel,,  Kuala Lumpur, Kuala Lumpur
+Phone: +603-9205 5330
+Email: steelon_kl@yahoo.com
+Status: INVALID/UNREACHABLE
 ------------------------------
-Name: Insas Pacific Rent-A-Car Sdn Bhd
-Address: Suite 29.8, 8th Floor, The Boulevard,, Mid Valley City, Lingkaran Syed Putra,,  Kuala Lumpur, Kuala Lumpur
-Phone: +603-2287 4118
-Email: reservation@iprac.com
+Name: Inter-Register Communications (M) Sdn Bhd
+Address: No 34, Jalan Tanjung SD 13/1,, Bandar Sri Damansara,,  Kuala Lumpur, Kuala Lumpur
+Phone: +603-6272 8000
+Email: general@irc.com.my
+Status: INVALID/UNREACHABLE
+------------------------------
+Name: Klinik Pergigian Kheng
+Address: No. 138, 1st Floor,, Jalan Tun H S Lee,,  Kuala Lumpur, Kuala Lumpur
+Phone: +603-2078 4028
+Email: klinikpergigiankheng@gmail.com
+Status: INVALID/UNREACHABLE
+------------------------------
+Name: Anar Paper Co Sdn Bhd
+Address: No. 276, Jalan Tun Sambanthan (Brickfields),  Brickfields, Kuala Lumpur
+Phone: +60177473163
+Email: info@anarpaper.com
+Status: INVALID/UNREACHABLE
+------------------------------
+Name: P & M Electrical & Mechanical Sdn Bhd
+Address: No. 19, Jalan Mega,, Taman Mega Jaya, Cheras,,  Kuala Lumpur, Kuala Lumpur
+Phone: +603-4293 3415
+Email: pmemsb2009@hotmail.com
+Status: INVALID/UNREACHABLE
+------------------------------
+Name: Mitra Malaysia Sdn Bhd
+Address: Lot 6.03A, Level 6, Wisma Central, Jalan Ampang,  Kuala Lumpur, Kuala Lumpur
+Phone: 
+Email: info@mitra.travel
+Status: VALID
+------------------------------
+Name: Lim Agency
+Address: No. 380,, Jalan Raja Laut,,  Kuala Lumpur, Kuala Lumpur
+Phone: +603-4041 0127
+Email: tommylimagency@hotmail.com
+Status: VALID
+------------------------------
+Name: Steelon Roofing Systems Sdn Bhd
+Address: 4-2-4,  Queen Avenue, Jalan Bayam,, Off Jalan Peel,,  Kuala Lumpur, Kuala Lumpur
+Phone: +603-9205 5330
+Email: steelon_kl@yahoo.com
+Status: VALID
+------------------------------
+Name: Inter-Register Communications (M) Sdn Bhd
+Address: No 34, Jalan Tanjung SD 13/1,, Bandar Sri Damansara,,  Kuala Lumpur, Kuala Lumpur
+Phone: +603-6272 8000
+Email: general@irc.com.my
+Status: VALID
+------------------------------
+Name: Klinik Pergigian Kheng
+Address: No. 138, 1st Floor,, Jalan Tun H S Lee,,  Kuala Lumpur, Kuala Lumpur
+Phone: +603-2078 4028
+Email: klinikpergigiankheng@gmail.com
+Status: INVALID/UNREACHABLE
+------------------------------
+Name: Anar Paper Co Sdn Bhd
+Address: No. 276, Jalan Tun Sambanthan (Brickfields),  Brickfields, Kuala Lumpur
+Phone: +60177473163
+Email: info@anarpaper.com
+Status: VALID
+------------------------------
+Name: P & M Electrical & Mechanical Sdn Bhd
+Address: No. 19, Jalan Mega,, Taman Mega Jaya, Cheras,,  Kuala Lumpur, Kuala Lumpur
+Phone: +603-4293 3415
+Email: pmemsb2009@hotmail.com
+Status: VALID
+------------------------------
+Name: Mitra Kembara Sdn Bhd
+Address: Lot 6.03A, Level 6, Wisma Central, Jalan Ampang,  Kuala Lumpur, Kuala Lumpur
+Phone: 
+Email: norzaile@mitrakembara.travel
+Status: INVALID/UNREACHABLE
+------------------------------
+Name: SPS Intertrade Sdn Bhd
+Address: Unit F, Excella Business Park, Jalan Ampang Putra,, Taman Ampang Hilir,,  Kuala Lumpur, Kuala Lumpur
+Phone: +603-4270 2022
+Email: spstm68@yahoo.com
+Status: VALID
+------------------------------
+Name: Extol Corporation Sdn Bhd
+Address: , ,  Kuala Lumpur, Kuala Lumpur
+Phone: +60321813666
+Email: info@appasia.com
+Status: INVALID/UNREACHABLE
+------------------------------
+Name: STH & Co
+Address: 129-A, Jalan Genting Kelang, Setapak,,  Setapak, Kuala Lumpur
+Phone: 
+Email: sthadvisory@gmail.com
+Status: VALID
+------------------------------
+Name: AppAsia Berhad
+Address: E-1-4, 1st Floor, Megan Avenue 1, Jalan Tun Razak,  Kuala Lumpur, Kuala Lumpur
+Phone: +60321813666
+Email: info@appasia.com
+Status: INVALID/UNREACHABLE
+------------------------------
+Name: Muhibbah Security Sdn Bhd
+Address: No. 8, Lorong 6A/91, Taman Shamelin Perkasa,  Kuala Lumpur, Kuala Lumpur
+Phone: 
+Email: info@muhibbahsecurity.com.my
+Status: VALID
+------------------------------
+Name: Super Air-Cond Parts & Supplies Sdn Bhd
+Address: No. 35, Jalan Gelang,, Off Jln Sungai Besi,,  Kuala Lumpur, Kuala Lumpur
+Phone: +603-9223 2430
+Email: superaircond@gmail.com
+Status: VALID
+------------------------------
+Name: Syarikat City Corporation
+Address: 30 Jalan 1B/108C, Taman Sungai Besi,  Kuala Lumpur, Kuala Lumpur
+Phone: +60379833214
+Email: citycorp.kl@gmail.com
+Status: VALID
+------------------------------
+Name: Awasiapi (M) Sdn Bhd
+Address: No. 38, 2nd Floor, Jalan 8/23E,, Danau Kota,,  Setapak, Kuala Lumpur
+Phone: +603-4149 3148
+Email: awasiapi_mis83@yahoo.com
+Status: VALID
+------------------------------
+Name: Fujit Plastic Industries Sdn Bhd
+Address: 102 & 103, Block P/D, Lorong Kaskas, Taman Cheras,  Kuala Lumpur, Kuala Lumpur
+Phone: +603-9130 5537
+Email: fujitplastic@yahoo.com
+Status: VALID
+------------------------------
+Name: Marco Polo Restaurant
+Address: 1st Floor, Wisma Lim Foo Yong, 86, Jln Raja Chulan,  Kuala Lumpur, Kuala Lumpur
+Phone: +60321412233
+Email: marcopolorestaurant@yahoo.com
+Status: VALID
+------------------------------
+Name: FLC Maintenance Specialist Sdn Bhd
+Address: No. 88, Jln Talalla, ,  Kuala Lumpur, Kuala Lumpur
+Phone: +603-2148 5780
+Email: flc_clean@hotmail.com
+Status: VALID
+------------------------------
+Name: De La Signs & Advertising Trading
+Address: No. 2, Jln Tembaga Sd 5/2E, Taman Sri Damansara,  Kepong, Kuala Lumpur
+Phone: +603-6277 6669
+Email: l_a_signs@yahoo.com
+Status: VALID
+------------------------------
+Name: Fujit Plastic Industries Sdn Bhd
+Address: 102 & 103, Block P/D, Lorong Kaskas, Taman Cheras,  Kuala Lumpur, Kuala Lumpur
+Phone: +603-9130 5537
+Email: fujitplastic@yahoo.com
+Status: VALID
+------------------------------
+Name: Epsoner F & B Equipment Sdn Bhd
+Address: No. 47, Jalan 10/91,, Taman Shamelin Perkasa,,  Kuala Lumpur, Kuala Lumpur
+Phone: +603-9200 7727
+Email: info@epsoner.com
+Status: INVALID/UNREACHABLE
+------------------------------
+Name: Choong Hing Trading Sdn Bhd
+Address: No. 17 & 19, Jalan 5/91,, Taman Shamelin Perkasa, Batu 3 1/2, Jalan Cheras,,  Kuala Lumpur, Kuala Lumpur
+Phone: +603-9282 0611
+Email: chts1719@gmail.com
+Status: VALID
+------------------------------
+Name: De La Signs & Advertising Trading
+Address: No. 2, Jln Tembaga Sd 5/2E, Taman Sri Damansara,  Kepong, Kuala Lumpur
+Phone: +603-6277 6669
+Email: l_a_signs@yahoo.com
+Status: VALID
+------------------------------
+Name: Consultancy Engineering Services
+Address: DAR ENERGY SDN BHDLevel 15, West Wings, The Icon,, No.1, Jalan 1/68F,,  W.PERSEKUTUAN, Kuala Lumpur
+Phone: 
+Email: infodar@dar-energy.com
+Status: VALID
+------------------------------
+Name: TRAVELVAGO SDN BHD
+Address: No A-SG-25 Level SG,, Sunway Geo Avenue Bandar Sunway,,  Kuala Lumpur, Selangor
+Phone: +60126658194
+Email: Not listed
+Status: Skipped
+------------------------------
+Name: Cloud Kitchen
+Address: Kitchen United Sdn. Bhd.D-8-3, Menara Suezcap 1, KL Gateway, Jalan Kerinchi,  Kuala Lumpur, Kuala Lumpur
+Phone: +60176292048
+Email: Not listed
+Status: Skipped
+------------------------------
+Name: Kitchen United Sdn. Bhd.
+Address: D-8-3, Menara Suezcap 1, KL Gateway, Jalan Kerinchi,  Kuala Lumpur, Kuala Lumpur
+Phone: +60176292048
+Email: Not listed
+Status: Skipped
+------------------------------
+Name: Need Funding for your business?
+Address: BizAdvisor DigitalSOHO Suites @ KLCC, Block A2, Level 23-2, No. 20, ,  Kuala Lumpur, Kuala Lumpur
+Phone: +60199328361
+Email: hello@bizadvisordigital.com
+Status: INVALID/UNREACHABLE
+------------------------------
+Name: ACCA & LCCI Online Studies
+Address: TRINITY GENESIS ORIGO DEVELOPMENT SDN BHDNO 1 TINGKAT 2 JALAN WANGSA DELIMA 10, SETAPAK,  Kuala Lumpur, Kuala Lumpur
+Phone: +60123371090
+Email: lowchinann@genesisorigo.com
+Status: VALID
+------------------------------
+Name: Digital Marketing Services
+Address: Primal MalaysiaMercu 2, Level 40, No.3, Jalan Bangsar, KL Eco City, 59200 Kuala Lumpur., ,  Kuala Lumpur, Kuala Lumpur
+Phone: 
+Email: Not listed
+Status: Skipped
+------------------------------
+Name: Grow Your Business with Us
+Address: BizAdvisor DigitalSOHO Suites @ KLCC, Block A2, Level 23-2, No.20, ,  Jalan Perak, Kuala Lumpur
+Phone: +60199328361
+Email: info@bizadvisordigital.com
+Status: INVALID/UNREACHABLE
+------------------------------
+Name: INTERSPACE DIGITAL MALAYSIA SDN BHD
+Address: ACCESSTRADE MALAYSIAB-13-04, Northpoint Office, Mid Valley City No 1 Medan Syed Putra Utara 59200 Kuala Lumpur, Malaysia, ,  Kuala Lumpur, Kuala Lumpur
+Phone: +60129354491
+Email: support@interspace.my
+Status: VALID
+------------------------------
+Name: MIL Capital Solution
+Address: No. 43-2, Jalan 1/116B, Kuchai Entrepreneurs Park,  Kuala Lumpur, Kuala Lumpur
+Phone: 
+Email: milcapsol@gmail.com
+Status: VALID
+------------------------------
+Name: Cooling Solution Sdn Bhd
+Address: 57 & 59, Jalan Kuchai Maju 17,, Kuchai Entrepreneur's Park, Off Jalan Kuchai Lama,,  Kuala Lumpur, Kuala Lumpur
+Phone: +603-7981 3466
+Email: sales@coolingsolution.com.my
+Status: VALID
+------------------------------
+Name: HR2eazy Sdn Bhd
+Address: 05-01, Level 05, Vertical Business Suite Avenue 3,, Bangsar South, No. 8, Jalan Kerinchi,,  Kuala Lumpur, Kuala Lumpur
+Phone: +603-2242 4024
+Email: rganesha@hrzeazy.com
+Status: INVALID/UNREACHABLE
+------------------------------
+Name: Wilmec Enterprise
+Address: No. 18, Jalan Lapangan Permai 1,, Jalan Sungai Besi Batu 2,,  Kuala Lumpur, Kuala Lumpur
+Phone: +603-9221 0124
+Email: wilmec@outlook.com
+Status: VALID
+------------------------------
+Name: Iscistech Business Solutions Sdn Bhd
+Address: 05-06, Level 05, Vertical Business Suite, Avenue 3, Bangsar South, No. 8, Jalan Kerinchi,,  Kuala Lumpur, Kuala Lumpur
+Phone: +603-2242 3524
+Email: rganesha@iscistech.com
+Status: INVALID/UNREACHABLE
+------------------------------
+Name: Super Six M&e Services Sdn Bhd
+Address: 30-1, Tingkat 1, Jalan Radin Anum 2,, ,  Bandar Baru Seri Petaling,, Kuala Lumpur
+Phone: +60390564369
+Email: supersixme@s6me.com.my
+Status: VALID
+------------------------------
+Name: OG-Cond Engineering
+Address: No. 62, Jalan Mega Mendung,, Kompleks Bandar, Jalan Klang Lama,,  Kuala Lumpur, Kuala Lumpur
+Phone: +6019-334 3997
+Email: ogair@streamyx.com
+Status: VALID
+------------------------------
+Name: Pak Fook Casket
+Address: 109, Jalan Besar,, Salak South,,  Kuala Lumpur, Kuala Lumpur
+Phone: +6019-273 8820
+Email: leongkahyan94@gmail.com
+Status: VALID
+------------------------------
+Name: Sky Radiance Global
+Address: No. 61, Lebuh Ampang,, Bangunan Abdul Razak,,  Kuala Lumpur, Kuala Lumpur
+Phone: +603-2078 5140
+Email: Razli786@yahoo.com
+Status: VALID
+------------------------------
+Name: J Arthur (M) Sdn Bhd
+Address: Lot 125, First Floor, Compbell Complex, Jalan Dang Wangi,,  Kuala Lumpur, Kuala Lumpur
+Phone: +603-2691 4162
+Email: flagsnflags@gmail.com
+Status: VALID
+------------------------------
+Name: K.L. Management & Secretarial Services
+Address: No. 20-3A, Jalan Pandan  2/1,, Pandan Jaya,,  Kuala Lumpur, Kuala Lumpur
+Phone: +603-9286 1500
+Email: foopohkhean@gmail.com
+Status: VALID
+------------------------------
+Name: Glojuara (M) Sdn Bhd
+Address: G-Floor, Wisma Apple (Beside Maybank),, 42-2, Jalan Sultan Ismail,,  Kuala Lumpur, Kuala Lumpur
+Phone: +603-2141 1757
+Email: hamzah@glojuara.com.my
+Status: VALID
+------------------------------
+Name: Klinik Maniraj
+Address: No. 2-11A, 2nd Floor,, Plaza City One, Jalan Munshi Abdullah,,  Kuala Lumpur, Kuala Lumpur
+Phone: +603-2693 7188
+Email: klinikmaniraj@gmail.com
+Status: VALID
+------------------------------
+Name: SVCE Central Sdn Bhd
+Address: 16 Jalan Pandan 3/10,, ,  Kuala Lumpur, Kuala Lumpur
+Phone: +603-9284 4399
+Email: pfactor@centralcapacitors.com.my
+Status: VALID
+------------------------------
+Name: Raj Management Services Sdn Bhd
+Address: Suite L8-12, Menara Sentral Vista,, No. 150, Jalan Sultan Abdul Samad,,  Kuala Lumpur, Kuala Lumpur
+Phone: +603- 2276 2786
+Email: raj27sms@yahoo.com
+Status: VALID
 ------------------------------
