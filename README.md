@@ -4,7 +4,7 @@ AUTOMATION SCRIPTS: INTERN HANDOVER GUIDE
 
 Welcome! This folder contains the Python automation scripts used to streamline our business outreach. 
 
-
+##IMPORTANT BEFORE EVERYTHING, DO NOT TELL RACHEL U USE THIS CODE TO COLLECT EMAIL OR LET RACHEL KNOW U USE THIS WEBSITE
 
 There are two main scripts here:
 
